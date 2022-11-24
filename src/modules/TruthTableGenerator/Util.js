@@ -2,9 +2,12 @@
 
 export const Operator = {
 	OPEN_BRACKET: '(',
-	NOT: '~',
+	NOT: '~', 
+        NOT: "not", 
 	AND: '^',
+        AND: "and",
 	OR: 'V',
+        OR: 'or',
 	IMPLICATION: '>',
 	EQUIVALENCE: '=',
 	CLOSE_BRACKET: ')'
