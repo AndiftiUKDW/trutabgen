@@ -1,6 +1,5 @@
 # Truth Table Generator
 A simple step by step logical truth table generator.
-Live at: https://trutabgen.com
 
 ![Image of truth table](./poster.png)
 
@@ -15,3 +14,5 @@ Input any logical formula using the following operators:
 
 Examples: ~(p^q) <=> ~p V ~q  
 !Uppercase identifiers are not allowed: A, B..
+
+i took forked this from dragos99 and took some code from web archive for personal using local index.html, not hosted on any site
