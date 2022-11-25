@@ -15,4 +15,4 @@ Input any logical formula using the following operators:
 Examples: ~(p^q) <=> ~p V ~q  
 !Uppercase identifiers are not allowed: A, B..
 
-i took forked this from dragos99 and took some code from web archive for personal using local index.html, not hosted on any site
+i took forked this from dragos99 and took some code from web archive for personal use. using local index.html, not hosted on any site
